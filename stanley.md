@@ -1,0 +1,4 @@
+---
+title: stanley
+layout: page
+---

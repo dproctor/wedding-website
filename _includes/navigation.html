@@ -1,0 +1,16 @@
+<nav>
+<div id="graphic">
+<svg viewBox="0 0 1440 104" fill="none" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1440 0H0V63.4706L59.8391 74.9412L121.609 58.8824L142.842 41.2941L164.075 52L220.054 53.5294L339.732 84.8824L359.035 82.5882L395.71 86.4118L403.432 82.5882L432.386 89.4706L451.689 84.8824L511.528 95.5882L532.761 96.3529L561.716 85.6471L602.252 100.176L640.858 104L729.651 87.9412L820.375 91.7647L909.169 78.7647L1005.68 76.4706L1048.15 90.2353L1185.2 87.1765L1231.53 74.9412L1279.79 74.1765L1326.11 66.5294L1374.37 71.8824L1385.95 68.0588L1440 71.8824V0Z" fill="#3E120E"/>
+</svg>
+<div id="text-wrapper">
+  <a class="home-page-link" href="/"> d&c </a>
+  <span id="nav-links">
+  {% for item in site.data.navigation %}
+    <a href="{{ item.url }}" {% if page.title == item.title %}class="current"{% endif %}>{{ item.title }}</a>
+{% endfor %}
+  </span>
+</div>
+</div>
+
+</nav>
