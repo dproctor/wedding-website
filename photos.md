@@ -1,6 +1,7 @@
 ---
 title: photos
 layout: page
+permalink: /photos/
 ---
 
 <div class="gg-container">
