@@ -148,6 +148,15 @@ html,body {
 		margin: 4px 0 0 0;
 	}
 }
+@media screen and (max-height: 400px) {
+  #landing-page-nav {
+    margin-left: 200px;
+    float: left;
+  }
+  #title {
+    float: left;
+  }
+}
 </style>
 
 <html>
