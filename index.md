@@ -82,7 +82,7 @@ html,body {
 }
 @media screen and (max-height: 1024px) {
   #landing-page-nav {
-    margin-top: 300px;
+    margin-top: 320px;
   }
 	#title h1 {
 		font-size: 48px;
@@ -95,6 +95,10 @@ html,body {
 		font-size: 18px;
 	}
 }
+@media screen and (max-height: 900px) {
+  #landing-page-nav {
+    margin-top: 260px;
+  }
 @media screen and (max-height: 812px) {
   #landing-page-nav {
     margin-top: 240px;
@@ -104,7 +108,18 @@ html,body {
     margin-top: 180px;
   }
 }
-@media screen and (max-height: 375px) {
+@media screen and (max-height: 680px) {
+  #landing-page-nav {
+    margin-top: 120px;
+  }
+}
+@media screen and (max-height: 640px) {
+  #landing-page-nav {
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-height: 560px) {
 	#landing-page-wrapper {
 		margin-top: 20px;
 	}
