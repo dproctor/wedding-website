@@ -37,7 +37,7 @@ gridGallery({
  layout: "square",
 
  // space between images
- gapLength: 100,
+ gapLength: 0,
 
  // row height
  rowHeight: 400,
