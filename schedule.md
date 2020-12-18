@@ -28,9 +28,9 @@ td p {
 </style>
 
 <h1> schedule </h1>
-The main wedding events will be on Saturday and Sunday, but we plan to host
-more casual gatherings Friday and Monday for whoever can make it. We’ll add
-more detail including dress codes as we get closer to the date.
+The main wedding events will be on Saturday and Sunday (Labor Day Weekend), but
+we plan to host more casual gatherings Friday and Monday for whoever can make
+it. We’ll add more detail including dress codes as we get closer to the date.
 
 <style>
 </style>
