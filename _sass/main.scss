@@ -87,6 +87,8 @@ nav #text-wrapper {
   top: 20px;
   left: 0;
   right: 0;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
   display: inline-flex;
 }
 
@@ -117,6 +119,8 @@ nav a:hover {
 #nav-links {
   text-align: right;
   width: 100%;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
   display: inline-flex;
   flex-wrap: wrap;
   gap: 10px;
