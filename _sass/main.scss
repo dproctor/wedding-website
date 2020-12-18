@@ -127,7 +127,6 @@ nav a:hover {
   display: -ms-inline-flexbox;
   display: inline-flex;
   flex-wrap: wrap;
-  gap: 10px;
   margin-left: auto;
 }
 #nav-links a:first-child {
@@ -135,6 +134,7 @@ nav a:hover {
 }
 #nav-links a {
   margin-top: auto;
+  padding-left:10px;
   margin-bottom: 5px;
 }
 
