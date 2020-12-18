@@ -108,9 +108,7 @@ href="https://www.airbnb.com/">Airbnb</a> and <a
 href="https://www.vrbo.com/">VRBO</a>, plus checkout the
 comfortable suites with kitchens at the <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
-<h2> <a name="things-to-do" id="things-to-do"></a>Things to do </h2>
-Make sure to include some really great photos of Stanley
-Pull from <a href="https://www.zola.com/wedding/seanandlauren2018/travel">here</a>
+<h2> <a class="anchor" name="things-to-do" id="things-to-do"></a>Things to do </h2>
 
 <h3>Hiking</h3>
 <img src="/assets/img/creek.png">
