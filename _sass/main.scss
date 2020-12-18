@@ -44,11 +44,11 @@ a.anchor {
     top: -80px;
 }
 
-ul {
+ul#toc {
   list-style:none;
   padding-left: 15px;
 }
-li {
+#toc li {
   margin-bottom: 2px;
 }
 
@@ -152,6 +152,8 @@ table {
 }
 
 img {
-  margin: 10px 0;
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
   max-width: 100%;
 }

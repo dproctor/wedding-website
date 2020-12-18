@@ -10,11 +10,21 @@ permalink: /stanley/
  <li> <a href="#things-to-do"> Things to do</a> </li>
 </ul>
 <img src="/assets/img/view_from_lower_stanley.jpg">
-<h2><a class="anchor" name="travel" id="travel"></a>Travel</h2>
-We’re believers that all the best places are a little off the beaten path, and
-Stanley is no exception. It’s going to take a little effort to get there, but
-we can’t wait to share this special place with you. Thank you for making the
+
+<p>
+Stanley is a tiny town (pop. 63) nestled at the foot of
+Idaho's Sawtooth Mountains and is a mecca for outdoors
+adventures.
+</p>
+<p>
+We’re believers that all the best places are a little off the
+beaten path, and Stanley is certainly no exception. It’s going
+to take a little effort to get there, but we can’t wait to
+share this special place with you. Thank you for making the
 trek to join us!
+</p>
+
+<h2><a class="anchor" name="travel" id="travel"></a>Travel</h2>
 
 <h3>Boise Airport</h3>
 There will likely be more flight options into Boise than Sun Valley, but the
@@ -102,23 +112,101 @@ comfortable suites with kitchens at the <a href="http://stanleyvacationrentals.c
 Make sure to include some really great photos of Stanley
 Pull from <a href="https://www.zola.com/wedding/seanandlauren2018/travel">here</a>
 
-List top hikes
+<h3>Hiking</h3>
+<img src="/assets/img/creek.png">
+<ul>
+  <li>
+  <a href="https://www.theoutbound.com/idaho/backpacking/backpack-to-sawtooth-lake">Sawtooth Lakes</a> (10 miles, 1873 ft elevation gain) can also be done as an overnight if you want to camp. <a href="https://www.alltrails.com/trail/us/idaho/sawtooth-lake--2">AllTrails guide </a>
+  </li>
+  <li>
+  <a href="https://www.theoutbound.com/idaho/hiking/hike-fishhook-creek">Fishhook Creek</a> (5 miles, 300 ft elevation gain) is the most approachable and family-friendly of the top hikes in the Sawtooths. THis has impressive views for much less effort.
+  </li>
+  <li>
+  <a href="https://www.alltrails.com/trail/us/idaho/bench-lakes-trail">Bench Lakes Trail</a> (7.8 miles, 1240 ft elevation gain)
+  </li>
+  <li>
+  <a href="https://www.alltrails.com/trail/us/idaho/stanley-lake-to-bridalveil-falls-trail">Stanley Lake to Bridalveil Falls</a> (7.3 miles, 498 ft elevation gain)
+  </li>
+  <li>
+  <a href="https://www.theoutbound.com/idaho/backpacking/hike-to-thompson-peak">Thompson Peak Summit</a> (13 miles, 4200 ft elevation gain) is the tallest peak in the Sawtooths. This one's for you if you like to bag peaks like a Hewitt! <a href="https://thebigoutside.com/roof-of-idahos-sawtooths-hiking-thompson-peak/">Hike write-up</a>
+  </li>
+  <li>
+  <a href="https://www.alltrails.com/trail/us/idaho/redfish-lake-to-alpine-lake">Redfish Lake to Alpine Lake</a> (18.6 miles, 2011 ft elevation gain) involves a ferry and can be done as an overnight or ambitious day hike.
+  </li>
+  <li>
+  <a href="https://www.alltrails.com/trail/us/idaho/alice-lake-twin-lake-edith-lake-loop">Alice Lake: Twin Lake and Edith Lake Loop</a> (21.3 miles, 4179 ft elevation gain)
+  </li>
+  <li>
+  <a href="https://sawtoothguides.com/hiking-backpacking/">Sawtooth Mountain Guides</a> offer guided backpacking trips as well as a portered trip.
+  </li>
+</ul>
 
-Top bike rides
-Rentals: Riverwear
+Some <a href="https://www.alltrails.com/parks/us/idaho/sawtooth-national-forest?ref=header">more</a> <a href="https://idahorocky.com/wp-content/uploads/2015/03/SNRA-Day-Hikes.pdf">hiking</a> <a href="https://www.hikingproject.com/directory/8011473/sawtooth-national-recreation-area">resources</a>.
 
-Hot springs
-Sunbeam Hot Springs
-Natural hot spring pools created at the edge of the Salmon River. Restrooms and dressing rooms on site. 12 miles N of Stanley on river side of Hwy. 75 (15 minutes). Between mileposts 201 and 202. More info.
+<h3>Biking</h3>
 
-Mountain Resort Hot Springs
-Book ..
+<img src="/assets/img/mtb.jpg">
 
-Standup paddleboards and kayaking
-Rentals: Riverwear
+<p>
+There are awesome mountain biking trails near Stanley. <a
+href="https://www.mtbproject.com/trail/5893349/fisher-creek-loop">Fisher
+Creek Loop</a> and <a
+href="https://www.mtbproject.com/trail/7028598/elk-mountain-loop">Elk
+Mountain Loop</a> are two great less technical (intermediate)
+options, and <a
+href="https://www.mtbproject.com/trail/7008401/dry-creek-road-630">Dry
+Creek Road</a> is a good beginner option. <a
+href="https://www.mtbproject.com/trail/7011749/potato-mountain-ride">Potato
+Mountain</a> is a great advanced option. You can find more mtb info at <a href="https://stanleycc.org/Blogs/ArticleID/480/mountainbiking">An Insider's Guide to the Mountain Biking in Stanley, Idaho: Some of the Best Riding in the West</a> and <a href="https://www.mtbproject.com/directory/8011473/sawtooth-national-recreation-area">MTB Project</a>.
+</p>
 
-Boating on Redfish Lake
-Inflatable kayaks, stand up paddle boards, pontoon boats and more - there is lots to do on beautiful Redfish Lake!
+<p>
+If you’d really like to turn your time out west into an
+adventure, consider the <a href="https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/idaho-hot-springs-mountain-bike-route/">Idaho Hot Springs Mountain Bike Route</a>.
+We’ve had this on our list since the route was published, and
+a friend completed and highly recommended it. It’s more gravel
+and 4WD roads than technical mountain biking, though there are
+singletrack options.
+</p>
 
-If you spend a little more time in the area:
-River rafting
+<p>
+Bike rentals are available through <a href="">River wear</a> or <a href="">Sawtooth Adventure at the Adventure Hut</a> at Redfish Lodge, which also offers <a href="">guided mountain bike rides</a>.
+<h3>Whitewater rafting</h3>
+Stanley sits at the headwaters of the Salmon River providing
+access to world-class rapids. There are popular
+family-friendly options for day trips on rafts or kayaks all
+the way up to six day trips with Class IV rapids through
+stunning backcountry. Find river guides <a href="https://stanleycc.org/Do/River-Rafting">here</a>.
+
+<h3>Redfish lake</h3>
+<img src="/assets/img/redfish.png">
+If whitewater sounds a little too adventurous, there are
+plenty of other water activities available at <a
+href="https://redfishlake.com/marina/">Redfish Marina</a>:
+stand up paddleboards (and a 7 person SUP?!), kayaks, canoes,
+pontoon boats, and boat tours.
+
+<h3>Hot Springs</h3>
+<ul>
+<li>
+<a href="https://www.mountainvillage.com/hot-springs/">Mountain Village Hot Springs</a> is right in Stanley, and requires reservations.
+<img src="/assets/img/hot_tub.png">
+</li>
+<li>
+<a href="https://www.outdoorproject.com/united-states/idaho/boat-box-hot-spring">Boat Box aka the Cauldron</a> is just down the road along the Salmon River.
+</li>
+<li>
+<a href="https://www.outdoorproject.com/united-states/idaho/sunbeam-hot-springs">Sunbeam Hot Springs</a> is also just down the road and has lots of space for lots of people.
+<img src="/assets/img/salmon_hot_springs.png">
+</li>
+<li>
+<a href="https://www.theoutbound.com/idaho/chillin/soak-in-kirkham-hot-springs">Kirkham Hot Springs</a> and <a href="https://www.theoutbound.com/idaho/chillin/soak-in-pine-flats-hot-springs">Pine Flats Hot Springs</a> are both relaxing stops along the drive from Boise to Stanley.
+<img src="/assets/img/hot_springs.png">
+</li>
+</ul>
+
+<h3>Sun Valley</h3>
+If you’ve never been, consider spending a few days in Ketchum
+on either end of the wedding. It’s a classy Western resort
+town with plenty of vacation-worthy lodges, hotels and
+restaurants.
