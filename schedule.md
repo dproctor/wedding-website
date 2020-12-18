@@ -28,11 +28,6 @@ td p {
 </style>
 
 <h1> schedule </h1>
-We think you’re going to love Stanley, and we recommend you extend your trip if
-you have the time. If you’re an outdoor enthusiast, you’ll definitely want a
-few extra days to cover the best hikes and mountain bike rides and have enough
-time to recover in the hot springs.
-
 The main wedding events will be on Saturday and Sunday, but we plan to host
 more casual gatherings Friday and Monday for whoever can make it. We’ll add
 more detail including dress codes as we get closer to the date.

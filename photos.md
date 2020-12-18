@@ -7,17 +7,23 @@ permalink: /photos/
 <div class="gg-container">
   <div class="gg-box" id="gallery">
     <img src="/assets/img/narrows.jpg">
-    <img src="/assets/img/ecuador.jpg">
+    <img src="/assets/img/twin_peaks.jpg">
+    <img src="/assets/img/shadows.jpg">
     <img src="/assets/img/la_paz.jpg">
     <img src="/assets/img/oaxaca.jpg">
     <img src="/assets/img/oregon_coast.jpg">
     <img src="/assets/img/quito.jpg">
     <img src="/assets/img/senior_formal.jpg">
     <img src="/assets/img/ski.jpg">
+    <img src="/assets/img/desert.jpg">
     <img src="/assets/img/stanley.jpg">
-    <img src="/assets/img/twin_peaks.jpg">
     <img src="/assets/img/ushuaia.jpg">
     <img src="/assets/img/costa_rica.jpg">
+    <img src="/assets/img/ecuador.jpg">
+    <img src="/assets/img/colorado.jpg">
+    <img src="/assets/img/fancy.jpg">
+    <img src="/assets/img/beso.jpg">
+    <img src="/assets/img/swings.jpg">
   </div>
 </div>
 
