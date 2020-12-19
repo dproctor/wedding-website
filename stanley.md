@@ -111,8 +111,9 @@ href="https://www.airbnb.com/">Airbnb</a> and <a
 href="https://www.vrbo.com/">VRBO</a> as well as comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
 <h2> <a class="anchor" name="things-to-do" id="things-to-do"></a>Things to do </h2>
-
+<p>
 There is so much to do in the Sawtooth Mountains, we highly recommend that you consider extending our wedding weekend into a vacation. Here are some ideas to help you plan!
+</p>
 
 <h3>Hiking</h3>
 <img src="/assets/img/creek.png">
