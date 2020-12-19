@@ -39,12 +39,12 @@ it. We’ll add more detail including dress codes as we get closer to the date.
   <col span="1" style="width:30%;">
 </colgroup>
 <tr>
-<td>Friday</td>
+<td>Friday  9/3 </td>
   <td>Welcome event in the evening (optional)</td>
 </tr>
 
 <tr>
-<td>Saturday</td>
+<td>Saturday 9/4</td>
 
 <td>
   <p>
@@ -58,7 +58,7 @@ it. We’ll add more detail including dress codes as we get closer to the date.
 </tr>
 
 <tr>
-<td>Sunday</td>
+<td>Sunday 9/5</td>
 <td>
   <p>
   Morning hike and yoga
@@ -73,7 +73,7 @@ it. We’ll add more detail including dress codes as we get closer to the date.
 </tr>
 
 <tr>
-<td>Monday</td>
+<td>Monday 9/6</td>
 <td>Goodbye event in the evening (optional)</td>
 </tr>
 </table>
