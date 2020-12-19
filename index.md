@@ -161,15 +161,15 @@ html,body {
 
 <html>
     <header>
-        <title>devon and caitlin</title>
+        <title>caitlin and devon</title>
     </header>
     <body>
       <div id="landing-page-wrapper">
         <div id="title">
-            <h1> devon </h1>
+            <h1> caitlin </h1>
             <h2> stanley idaho </h2>
             <h2> september 5 2021 </h2>
-            <h1> caitlin </h1>
+            <h1> devon </h1>
         </div>
         <div id="landing-page-nav">
         {% for item in site.data.navigation %}
