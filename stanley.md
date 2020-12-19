@@ -31,21 +31,24 @@ There will likely be more flight options into Boise than Sun Valley, but the
 drive is longer. Budget three hours for this beautiful drive along the
 Ponderosa Pine Scenic Byway. The roads are well-maintained but winding. Stop in
 at Kirkham Hot Springs just off the road when you’re two hours into the drive
-and ready to officially enter vacation mode. Directions (includes the Hot
-Springs).
+and ready to officially enter vacation mode. <a href="https://goo.gl/maps/NbSeASAKaRNdaCmc8">Directions (includes the Hot Springs)</a>.
+
 <h3>Sun Valley (Friedman Memorial Airport)</h3>
 
 Plan for the drive to take a little over an hour. You’ll take Highway 75
 through the Sawtooth National Forest and along stunning views of the Sawtooth
 Mountains. Look out for pronghorn antelope, mountain goats and sandhill cranes.
+<a href="https://goo.gl/maps/r7sHLQZAxTxUJtHA8">Directions</a>.
 
-From either airport, we recommend avoiding driving at night. There is beautiful
-scenery you won’t want to miss, and the combination of windy dark roads and
-wildlife can be dangerous. If you land in Sun Valley or Boise Friday evening,
-you might want to spend the night there and drive in the morning.
+From either airport, we recommend that you avoid driving at night. There is
+beautiful scenery you won’t want to miss, and the combination of windy dark
+roads and wildlife can be dangerous. If you land in Sun Valley or Boise Friday
+evening, you might want to spend the night there and drive in the morning.
 
 <h2> <a class="anchor" name="where-to-stay" id="where-to-stay"></a>Where to stay </h2>
-Book early! Stanley is a very popular summer destination, and we expect that to be especially the case for Labor Day Weekend in 2021. There are already a couple places that are full, so book fast if you don’t want to wind up in a tent!
+Book early! Stanley is a very popular summer destination, and we expect that to
+be especially the case for Labor Day Weekend in 2021. There are already a couple
+places that are full, so book fast if you don’t want to wind up in a tent!
 
 Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&usp=sharing">interactive map</a> to pick a spot.
 
@@ -105,10 +108,12 @@ There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles
 <h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
 There are a few good options on <a
 href="https://www.airbnb.com/">Airbnb</a> and <a
-href="https://www.vrbo.com/">VRBO</a>, plus checkout the
-comfortable suites with kitchens at the <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
+href="https://www.vrbo.com/">VRBO</a> as well as comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
 <h2> <a class="anchor" name="things-to-do" id="things-to-do"></a>Things to do </h2>
+<p>
+There is so much to do in the Sawtooth Mountains, we highly recommend that you consider extending our wedding weekend into a vacation. Here are some ideas to help you plan!
+</p>
 
 <h3>Hiking</h3>
 <img src="/assets/img/creek.png">

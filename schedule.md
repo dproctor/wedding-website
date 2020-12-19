@@ -28,9 +28,10 @@ td p {
 </style>
 
 <h1> schedule </h1>
-The main wedding events will be on Saturday and Sunday (Labor Day Weekend), but
-we plan to host more casual gatherings Friday and Monday for whoever can make
-it. We’ll add more detail including dress codes as we get closer to the date.
+We are hosting our wedding over Labor Day Weekend, September 3 - 6, 2021.
+The main wedding events will be on Saturday and Sunday, but we plan to host
+more casual gatherings Friday and Monday for whoever can make it. We’ll add
+more detail including dress codes as we get closer to the date.
 
 <style>
 </style>
@@ -39,12 +40,12 @@ it. We’ll add more detail including dress codes as we get closer to the date.
   <col span="1" style="width:30%;">
 </colgroup>
 <tr>
-<td>Friday</td>
-  <td>Welcome event in the evening (optional)</td>
+<td>Friday  9/3 </td>
+  <td>Welcome event in the evening </td>
 </tr>
 
 <tr>
-<td>Saturday</td>
+<td>Saturday 9/4</td>
 
 <td>
   <p>
@@ -52,13 +53,13 @@ it. We’ll add more detail including dress codes as we get closer to the date.
   morning
   </p>
   <p>
-  Rehearsal dinner and party in the early evening
+  Rehearsal dinner and party starting late afternoon
   </p>
 </td>
 </tr>
 
 <tr>
-<td>Sunday</td>
+<td>Sunday 9/5</td>
 <td>
   <p>
   Morning hike and yoga
@@ -73,8 +74,8 @@ it. We’ll add more detail including dress codes as we get closer to the date.
 </tr>
 
 <tr>
-<td>Monday</td>
-<td>Goodbye event in the evening (optional)</td>
+<td>Monday 9/6</td>
+<td>Goodbye breakfast </td>
 </tr>
 </table>
 
