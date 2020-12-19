@@ -13,7 +13,7 @@ permalink: /stanley/
 
 <p>
 Stanley is a tiny town (pop. 63) nestled at the foot of
-Idaho's Sawtooth Mountains and is a mecca for outdoors
+Idaho's Sawtooth Mountains and is a mecca for outdoor
 adventures.
 </p>
 <p>
