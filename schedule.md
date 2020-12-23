@@ -53,7 +53,7 @@ more detail including dress codes as we get closer to the date.
   morning
   </p>
   <p>
-  Rehearsal dinner and party starting late afternoon
+  Rehearsal dinner and party starting early evening
   </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ more detail including dress codes as we get closer to the date.
   Morning hike and yoga
   </p>
   <p>
-  Wedding ceremony
+  Wedding ceremony starting late afternoon
   </p>
   <p>
   Reception and dancing to follow
