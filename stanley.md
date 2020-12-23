@@ -7,13 +7,14 @@ permalink: /stanley/
 <ul id="toc">
  <li> <a href="#travel"> Travel</a> </li>
  <li> <a href="#where-to-stay"> Where to stay</a> </li>
+ <li> <a href="#weather"> Weather</a> </li>
  <li> <a href="#things-to-do"> Things to do</a> </li>
 </ul>
 <img src="/assets/img/view_from_lower_stanley.jpg">
 
 <p>
 Stanley is a tiny town (pop. 63) nestled at the foot of
-Idaho's Sawtooth Mountains and is a mecca for outdoor
+Idaho's Sawtooth Mountains and is a mecca for outdoors
 adventures.
 </p>
 <p>
@@ -110,6 +111,15 @@ There are a few good options on <a
 href="https://www.airbnb.com/">Airbnb</a> and <a
 href="https://www.vrbo.com/">VRBO</a> as well as comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
+<h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
+<p>
+Fun fact: Stanley is the coldest place in the continental United States, as measured by low temperature at night. You’re probably thinking that’s not so fun since you’ve been invited to an outdoor wedding. Don’t worry! The weather will be gorgeous during the day, cool in the evening, and only cold around 9PM and on. For the wedding reception, we’ll be in an indoor heated tent and barn when it’s cold. On the Friday and Saturday events, we’ll gather around cozy fires and patio heaters with blankets, but definitely wear a coat!
+</p>
+
+<p>
+<a href="https://weatherspark.com/d/145462/9/5/Average-Weather-on-September-5-at-Stanley-Stanley-Ranger-Station;-Idaho;-United-States">Find detailed weather info here.</a>
+</p>
+
 <h2> <a class="anchor" name="things-to-do" id="things-to-do"></a>Things to do </h2>
 <p>
 There is so much to do in the Sawtooth Mountains, we highly recommend that you consider extending our wedding weekend into a vacation. Here are some ideas to help you plan!
@@ -122,7 +132,7 @@ There is so much to do in the Sawtooth Mountains, we highly recommend that you c
   <a href="https://www.theoutbound.com/idaho/backpacking/backpack-to-sawtooth-lake">Sawtooth Lakes</a> (10 miles, 1873 ft elevation gain) can also be done as an overnight if you want to camp. <a href="https://www.alltrails.com/trail/us/idaho/sawtooth-lake--2">AllTrails guide </a>
   </li>
   <li>
-  <a href="https://www.theoutbound.com/idaho/hiking/hike-fishhook-creek">Fishhook Creek</a> (5 miles, 300 ft elevation gain) is the most approachable and family-friendly of the top hikes in the Sawtooths. THis has impressive views for much less effort.
+  <a href="https://www.theoutbound.com/idaho/hiking/hike-fishhook-creek">Fishhook Creek</a> (5 miles, 300 ft elevation gain) is the most approachable and family-friendly of the top hikes in the Sawtooths. This has impressive views for much less effort.
   </li>
   <li>
   <a href="https://www.alltrails.com/trail/us/idaho/bench-lakes-trail">Bench Lakes Trail</a> (7.8 miles, 1240 ft elevation gain)
