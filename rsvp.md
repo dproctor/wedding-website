@@ -6,7 +6,7 @@ permalink: /rsvp/
 <h1> rsvp </h1>
 
 <p>
-Please RSVP whenever you are certain you can or cannot make it. We'll share a deadline for replies when we send invitations.
+Please feel free to RSVP if you already know whether you can or cannot make it. We'll share a deadline for replies when we send invitations.
 </p>
 
 <iframe name="redirect" style="display:none;"></iframe>

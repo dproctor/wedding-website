@@ -55,10 +55,7 @@ Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit
 
 <h3><a name="triangle-c-cabins" id="triangle-c-cabins"  href="https://triangleccabins.com/">Triangle C Cabins</a></h3>
 
-These standalone cabins are cozy, a little rustic and very popular. Enjoy the
-firepit in the evenings and volleyball, bocce and other games on-site. Expect
-this site to be packed with other wedding guests. As part of Redfish Resort,
-free shuttles to stunning Redfish Lake are a perk of staying here.
+These standalone cabins are cozy, a little rustic and very popular. Enjoy the firepit in the evenings and volleyball, bocce and other games on-site. Expect this site to be packed with other wedding guests. As part of Redfish Resort, free shuttles to stunning Redfish Lake are a perk of staying here. To book, call Missy at 208-774-2266. We have a block on all cabins until March 3rd.
 <a href="https://goo.gl/maps/YVABhYiVvP3xZc6U8">Google maps</a>
 
 <h3><a name="danners-log-cabins" id="danners-log-cabins"   href="http://www.dannerslogcabins.com/">Danner’s Log Cabins</a></h3>
