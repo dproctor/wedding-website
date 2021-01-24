@@ -80,15 +80,13 @@ Comfortable rooms along the river with log cabin decor. Stay here if you want to
 <a href="https://goo.gl/maps/cvh4Y12n9yPcxkpTA">Google maps</a>
 
 <h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
-A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake.
-<a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
+A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
 
 <h3><a name="sawtooth-hotel" id="sawtooth-hotel"   href="https://sawtoothhotel.com/">Sawtooth Hotel</a></h3>
-Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms.
-<a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
+Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
 
 <h3><a name="mountain-village" id="mountain village"   href="https://www.mountainvillage.com/">Mountain Village Resort</a></h3>
-Basic, affordable hotel in town that comes with one major perk: access to amazing natural hot springs!<a href="https://goo.gl/maps/fLcVFE9DBhbirCDm9"> Google maps</a>
+Basic, affordable hotel in town that comes with one major perk: access to amazing natural hot springs! <a href="https://goo.gl/maps/fLcVFE9DBhbirCDm9">Google maps</a>
 
 <h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
 If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
@@ -107,7 +105,7 @@ There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles
 </ul>
 
 <h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
-There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>. This <a href="https://www.airbnb.com/rooms/26633802?check_in=2021-09-09&check_out=2021-09-12&s=67&unique_share_id=b5f97371-fecd-400c-b473-4fc6bce4cd21&source_impression_id=p3_1611507838_r5SjoWzmcL%2Bskqp1&guests=1&adults=1">1BR Airbnb</a> shows booked but is now available. <a href="mailto:dougproctor@gmail.com">Email Devon's brother Doug </a> if you're interested.
+There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>. This <a href="https://www.airbnb.com/rooms/26633802?check_in=2021-09-09&check_out=2021-09-12&s=67&unique_share_id=b5f97371-fecd-400c-b473-4fc6bce4cd21&source_impression_id=p3_1611507838_r5SjoWzmcL%2Bskqp1&guests=1&adults=1">1BR Airbnb</a> shows booked but is now available. Email us if you're interested.
 
 <h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
 <p>
