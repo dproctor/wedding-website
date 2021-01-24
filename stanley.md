@@ -87,6 +87,10 @@ A popular hotel in town with basic but comfortable rooms and log cabin decor. Th
 Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms.
 <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
 
+<h3><a name="mountain-village" id="mountain village"   href="https://www.mountainvillage.com/">Mountain Village Resort</a></h3>
+This is a pretty basic lodge in town, but the rooms are affordable, and it comes with one incredible perk. They have access to private natural hot springs with a view that are a short walk from your room.
+<a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
+
 <h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
 If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
 <a href="https://goo.gl/maps/QKUSR5TcyHyfjoCd6">Google maps</a>
@@ -104,9 +108,8 @@ There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles
 </ul>
 
 <h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
-There are a few good options on <a
-href="https://www.airbnb.com/">Airbnb</a> and <a
-href="https://www.vrbo.com/">VRBO</a> as well as comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
+There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a
+href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
 <h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
 <p>
