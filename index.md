@@ -51,7 +51,7 @@ html,body {
 #landing-page-nav a {
 	text-decoration: none;
 	font-weight: 300;
-	font-size: 1.5vh;
+	font-size: 22px;
 	color: #150605;
 }
 #landing-page-nav a:hover {
@@ -89,9 +89,6 @@ html,body {
 	}
 
 	#title h2 {
-		font-size: 18px;
-	}
-	#landing-page-nav a {
 		font-size: 18px;
 	}
 }
