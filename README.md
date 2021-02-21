@@ -1,5 +1,3 @@
-# Instructions for Windows powershell
-```
-cd Documents\GitHub\wedding-website-2\wedding-website
-docker-compose up
-```
+# Wedding website
+
+Website for Devon and Caitlin's September 5, 2021 wedding.
