@@ -80,7 +80,7 @@ Comfortable rooms along the river with log cabin decor. Stay here if you want to
 <a href="https://goo.gl/maps/cvh4Y12n9yPcxkpTA">Google maps</a>
 
 <h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
-A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. Call to book under our block at (208)774-700.<a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
+A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. Call to book under our block at (208)774-700. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
 
 <h3><a name="sawtooth-hotel" id="sawtooth-hotel"   href="https://sawtoothhotel.com/">Sawtooth Hotel</a></h3>
 Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
