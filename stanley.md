@@ -103,7 +103,7 @@ There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles
 </ul>
 
 <h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
-There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>. This <a href="https://www.airbnb.com/rooms/26633802?check_in=2021-09-09&check_out=2021-09-12&s=67&unique_share_id=b5f97371-fecd-400c-b473-4fc6bce4cd21&source_impression_id=p3_1611507838_r5SjoWzmcL%2Bskqp1&guests=1&adults=1">1BR Airbnb</a> shows booked but is now available. Email us if you're interested.
+There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
 <h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
 <p>
