@@ -29,53 +29,60 @@ td p {
 
 <h1> schedule </h1>
 We are hosting our wedding over Labor Day Weekend, September 3 - 6, 2021.
-The main wedding events will be on Saturday and Sunday, but we plan to host
-more casual gatherings Friday and Monday for whoever can make it. We’ll add
-more detail including dress codes as we get closer to the date.
+The main wedding events will be on Saturday and Sunday, but we would love to see
+you on Friday and Monday if that fits into your travel plans.
 
 <style>
 </style>
+
 <table>
 <colgroup>
   <col span="1" style="width:30%;">
 </colgroup>
 <tr>
 <td>Friday  9/3 </td>
-  <td>Welcome event in the evening </td>
+<td>
+  <p>8 - 10 PM</p>
+  <p>Welcome S'mores and Drinks</p>
+  <p>The Stanley Outpost</p>
+  <p>Dress: Campfire Casual </p>
+</td>
 </tr>
 
 <tr>
 <td>Saturday 9/4</td>
-
 <td>
-  <p>
-  Hiking, biking, paddling and other group activities in the
-  morning
-  </p>
-  <p>
-  Rehearsal dinner and party starting early evening
-  </p>
+  <p>10 AM - 2 PM</p>
+  <p>Boating, Hiking, Biking and Picnic</p>
+  <p>Redfish Lake Picnic Area</p>
+
+  <br>
+
+  <p>6 - 9 PM</p>
+  <p>Rehearsal Dinner and Party</p>
+  <p>The Stanley Outpost</p>
+  <p>Dress: Western Chic</p>
 </td>
 </tr>
 
 <tr>
 <td>Sunday 9/5</td>
 <td>
-  <p>
-  Morning hike and yoga
-  </p>
-  <p>
-  Wedding ceremony starting late afternoon
-  </p>
-  <p>
-  Reception and dancing to follow
-  </p>
+  <p>4 - 10 PM</p>
+  <p>Wedding Ceremony and Reception</p>
+  <p>The Cassidys’ Home</p>
+  <p>Dress: Black-Tie Optional</p>  
 </td>
 </tr>
 
 <tr>
 <td>Monday 9/6</td>
-<td>Goodbye breakfast </td>
+<td>
+  <p>10 AM - 12 PM</p>
+  <p>Continental Breakfast</p>
+  <p>The Stanley Outpost</p>
+  <p>Dress: Coffee Casual</p>
+</td>
 </tr>
 </table>
 

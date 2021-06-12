@@ -47,7 +47,7 @@ roads and wildlife can be dangerous. If you land in Sun Valley or Boise Friday
 evening, you might want to spend the night there and drive in the morning.
 
 <h2> <a class="anchor" name="where-to-stay" id="where-to-stay"></a>Where to stay </h2>
-Book early! Stanley is a very popular summer destination, and we expect that to be especially the case for Labor Day Weekend in 2021. We feel confident that it will be safe to have a wedding in September, but we will send out final confirmation on July 1. Most accommodations in town charge only a 10% cancellation fee if you cancel with sufficient notice. There are already a few places that are full, so book fast if you don’t want to wind up in a tent!
+Book early! Stanley is a very popular summer destination, and we expect that to be especially the case for Labor Day Weekend in 2021. Several places are already full, so book fast if you don’t want to wind up in a tent!
 
 Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&usp=sharing">interactive map</a> to pick a spot.
 
