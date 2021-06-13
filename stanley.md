@@ -114,15 +114,6 @@ Fun fact: Stanley is the coldest place in the continental United States, as meas
 <a href="https://weatherspark.com/d/145462/9/5/Average-Weather-on-September-5-at-Stanley-Stanley-Ranger-Station;-Idaho;-United-States">Find detailed weather info here.</a>
 </p>
 
-<h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
-<p>
-Fun fact: Stanley is the coldest place in the continental United States, as measured by low temperature at night. You’re probably thinking that’s not so fun since you’ve been invited to an outdoor wedding. Don’t worry! The weather will be gorgeous during the day, cool in the evening, and only cold around 9PM and on. For the wedding reception, we’ll be in an indoor heated tent and barn when it’s cold. On the Friday and Saturday events, we’ll gather around cozy fires and patio heaters with blankets, but definitely wear a coat!
-</p>
-
-<p>
-<a href="https://weatherspark.com/d/145462/9/5/Average-Weather-on-September-5-at-Stanley-Stanley-Ranger-Station;-Idaho;-United-States">Find detailed weather info here.</a>
-</p>
-
 <h2> <a class="anchor" name="things-to-do" id="things-to-do"></a>Things to do </h2>
 <p>
 There is so much to do in the Sawtooth Mountains, we highly recommend that you consider extending our wedding weekend into a vacation. Here are some ideas to help you plan!

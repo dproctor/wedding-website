@@ -6,7 +6,7 @@ permalink: /rsvp/
 <h1> rsvp </h1>
 
 <p>
-Please feel free to RSVP if you already know whether you can or cannot make it. We'll share a deadline for replies when we send invitations.
+Please RSVP by July 5, 2021. Your presence at our wedding is the only gift we request!
 </p>
 
 <iframe name="redirect" style="display:none;"></iframe>
