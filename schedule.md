@@ -45,7 +45,7 @@ you on Friday and Monday if that fits into your travel plans.
   <p>8 - 10 PM</p>
   <p>Welcome S'mores and Drinks</p>
   <p>The Stanley Outpost</p>
-  <p>Dress: Campfire Casual </p>
+  <p>Campfire Casual Attire</p>
 </td>
 </tr>
 
@@ -61,7 +61,7 @@ you on Friday and Monday if that fits into your travel plans.
   <p>6 - 9 PM</p>
   <p>Rehearsal Dinner and Party</p>
   <p>The Stanley Outpost</p>
-  <p>Dress: Western Chic</p>
+  <p>Western Chic Attire</p>
 </td>
 </tr>
 
@@ -71,7 +71,7 @@ you on Friday and Monday if that fits into your travel plans.
   <p>4 - 10 PM</p>
   <p>Wedding Ceremony and Reception</p>
   <p>The Cassidys’ Home</p>
-  <p>Dress: Black-Tie Optional</p>  
+  <p>Black-Tie Optional</p>  
 </td>
 </tr>
 
@@ -79,9 +79,8 @@ you on Friday and Monday if that fits into your travel plans.
 <td>Monday 9/6</td>
 <td>
   <p>10 AM - 12 PM</p>
-  <p>Continental Breakfast</p>
+  <p>Farewell Breakfast</p>
   <p>The Stanley Outpost</p>
-  <p>Dress: Coffee Casual</p>
 </td>
 </tr>
 </table>
