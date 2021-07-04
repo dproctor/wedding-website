@@ -6,7 +6,7 @@ permalink: /rsvp/
 <h1> rsvp </h1>
 
 <p>
-Please RSVP by July 5, 2021. Your presence at our wedding is the only gift we request!
+Please RSVP by July 15, 2021. Your presence at our wedding is the only gift we request!
 </p>
 
 <iframe name="redirect" style="display:none;"></iframe>
