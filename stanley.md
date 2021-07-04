@@ -51,52 +51,30 @@ Book early! Stanley is a very popular summer destination, and we expect that to 
 
 Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&usp=sharing">interactive map</a> to pick a spot.
 
-<h3><a name="triangle-c-cabins" id="triangle-c-cabins"  href="https://triangleccabins.com/">Triangle C Cabins</a></h3>
-
-These standalone cabins are cozy, a little rustic and very popular. Enjoy the firepit in the evenings and volleyball, bocce and other games on-site. Expect this site to be packed with other wedding guests. As part of Redfish Resort, free shuttles to stunning Redfish Lake are a perk of staying here. To book, call Missy at (208) 774-2266.
-<a href="https://goo.gl/maps/YVABhYiVvP3xZc6U8">Google maps</a>
-
-<h3><a name="danners-log-cabins" id="danners-log-cabins"   href="http://www.dannerslogcabins.com/">Danner’s Log Cabins</a></h3>
-These log cabins are a favorite for weddings in Stanley.
-Expect them to be packed with other wedding guests. These
-simple but cozy cabins began as one of Idaho's first Ranger
-Stations back in the late 1800's.
-<a href="https://goo.gl/maps/8UMjmGxC9DDrEv5F7">Google maps</a>
-
-
-
-<h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
-Very cute and modern tiny homes. Probably already booked, but if you find one, snatch it! If you don’t, you can still book a massage here.
-<a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
-
 <h3><a name="stanley-town-square" id="stanley-town-square"   href="https://www.stanleytownsquare.com/">Stanley Town Square Condo Hotel</a></h3>
-These are probably the nicest accommodations in town. Most are suites with multiple rooms that have been updated with kitchens and upscale but homey decor. If you're a family or friends wanting to share and aren’t interested in roughing it, book here!
+<em>Update: One suite studio left.</em> These are probably the nicest accommodations in town. Most are suites with multiple rooms that have been updated with kitchens and upscale but homey decor. If you're a family or friends wanting to share and aren’t interested in roughing it, book here!
 <a href="https://goo.gl/maps/pdJ3k6gyYd9kPmYS8">Google maps</a>
 
-<h3><a name="redfish-riverside-inn" id="redfish-riverside-inn"   href="https://redfishriversideinn.com/">Redfish Riverside Inn</a></h3>
-Comfortable rooms along the river with log cabin decor. Stay here if you want to wake up next to the river and be within sight of our wedding venue. As part of the Redfish Resort, free shuttles to the Redfish Lake are a perk of staying here. Call to book under our room block: (208) 784-3409.
-<a href="https://goo.gl/maps/cvh4Y12n9yPcxkpTA">Google maps</a>
-
 <h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
-A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. Call to book under our room block: (208) 774-700. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
+<em>Update: Two king rooms left.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
 
 <h3><a name="sawtooth-hotel" id="sawtooth-hotel"   href="https://sawtoothhotel.com/">Sawtooth Hotel</a></h3>
-Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
+<em>Update: one queen room left.</em> Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
+
+<h3><a name="danners-log-cabins" id="danners-log-cabins"   href="http://www.dannerslogcabins.com/">Danner’s Log Cabins</a></h3>
+These simple but cozy cabins began as one of Idaho's first Ranger Stations back in the late 1800's.
+<a href="https://goo.gl/maps/8UMjmGxC9DDrEv5F7">Google maps</a>
 
 <h3><a name="mountain-village" id="mountain village"   href="https://www.mountainvillage.com/">Mountain Village Resort</a></h3>
-Basic, affordable hotel in town that comes with one major perk: access to amazing natural hot springs! This resort also offers a full refund for cancellations with at least 7 days notice. <a href="https://goo.gl/maps/fLcVFE9DBhbirCDm9">Google maps</a>
+<em>Update: Several rooms left.</em> Basic, affordable hotel in town that comes with one major perk: access to amazing natural hot springs! This resort also offers a full refund for cancellations with at least 7 days notice. <a href="https://goo.gl/maps/fLcVFE9DBhbirCDm9">Google maps</a>
 
 <h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
-If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
+<em>Update: fully booked.</em> If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
 <a href="https://goo.gl/maps/QKUSR5TcyHyfjoCd6">Google maps</a>
-
-<h3><a name="redfish-lake-lodge" id="redfish-lake-lodge"   href="https://redfishlake.com/">Redfish Lake Lodge</a></h3>
-Set next to crystal clear Redfish Lake and with stunning Sawtooth Mountain views, this resort is the most popular spot in the area. If you can find a room, snag it. It’s about a 10-minute drive from Stanley and the wedding venue. Whether or not you stay here, we recommend visiting Redfish Lake during your stay. If you stay at Triangle C Cabins or the Redfish Riverside Inn, there are free shuttles to the Lake.
-<a href="https://g.page/redfish-lake-lodge?share">Google maps</a>
 
 <h3><a name="lower-stanley-cabins" id="lower-stanley-cabins"> Lower Stanley Cabins</a></h3>
 <p>
-There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles from Stanley. These cabins are affordable options set right along the river with stunning mountain views. There are a variety of cabin options.
+<em>Update: a few rooms and cabins available.</em> There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles from Stanley. These cabins are affordable options set right along the river with stunning mountain views. There are a variety of cabin options.
 <ul>
 <li> <a href="https://www.lowerstanley.com/">Lower Stanley Country Store and Motel</a>, <a href="https://goo.gl/maps/DMxDz9cfYKyqaKb27">Google maps</a> </li>
 <li><a href="https://www.redwood-stanley.com/">Redwood Cabins</a>, <a href="https://goo.gl/maps/PSPUuvNNGeWZo5pX9">Google maps</a></li>
@@ -104,6 +82,22 @@ There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles
 
 <h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
 There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
+
+<h3><a name="triangle-c-cabins" id="triangle-c-cabins"  href="https://triangleccabins.com/">Triangle C Cabins</a></h3>
+<em>Update: fully booked.</em> These standalone cabins are cozy, a little rustic and very popular. Enjoy the firepit in the evenings and volleyball, bocce and other games on-site. Expect this site to be packed with other wedding guests. As part of Redfish Resort, free shuttles to stunning Redfish Lake are a perk of staying here.
+<a href="https://goo.gl/maps/YVABhYiVvP3xZc6U8">Google maps</a>
+
+<h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
+<em>Update: Fully booked.</em> Very cute and modern tiny homes.
+<a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
+
+<h3><a name="redfish-riverside-inn" id="redfish-riverside-inn"   href="https://redfishriversideinn.com/">Redfish Riverside Inn</a></h3>
+<em>Update: fully booked.</em> Comfortable rooms along the river with log cabin decor. Stay here if you want to wake up next to the river and be within sight of our wedding venue. As part of the Redfish Resort, free shuttles to the Redfish Lake are a perk of staying here.
+<a href="https://goo.gl/maps/cvh4Y12n9yPcxkpTA">Google maps</a>
+
+<h3><a name="redfish-lake-lodge" id="redfish-lake-lodge"   href="https://redfishlake.com/">Redfish Lake Lodge</a></h3>
+<em>Update: fully booked.</em> Set next to crystal clear Redfish Lake and with stunning Sawtooth Mountain views, this resort is the most popular spot in the area. If you can find a room, snag it. It’s about a 10-minute drive from Stanley and the wedding venue. Whether or not you stay here, we recommend visiting Redfish Lake during your stay. If you stay at Triangle C Cabins or the Redfish Riverside Inn, there are free shuttles to the Lake.
+<a href="https://g.page/redfish-lake-lodge?share">Google maps</a>
 
 <h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
 <p>
