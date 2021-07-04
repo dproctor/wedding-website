@@ -68,10 +68,6 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <h3><a name="mountain-village" id="mountain village"   href="https://www.mountainvillage.com/">Mountain Village Resort</a></h3>
 <em>Update: Several rooms left.</em> Basic, affordable hotel in town that comes with one major perk: access to amazing natural hot springs! This resort also offers a full refund for cancellations with at least 7 days notice. <a href="https://goo.gl/maps/fLcVFE9DBhbirCDm9">Google maps</a>
 
-<h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
-<em>Update: fully booked.</em> If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
-<a href="https://goo.gl/maps/QKUSR5TcyHyfjoCd6">Google maps</a>
-
 <h3><a name="lower-stanley-cabins" id="lower-stanley-cabins"> Lower Stanley Cabins</a></h3>
 <p>
 <em>Update: a few rooms and cabins available.</em> There are two fairly rustic cabin options in Lower Stanley, just about 1.5 miles from Stanley. These cabins are affordable options set right along the river with stunning mountain views. There are a variety of cabin options.
@@ -80,8 +76,12 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <li><a href="https://www.redwood-stanley.com/">Redwood Cabins</a>, <a href="https://goo.gl/maps/PSPUuvNNGeWZo5pX9">Google maps</a></li>
 </ul>
 
+<h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
+<em>Update: fully booked.</em> If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
+<a href="https://goo.gl/maps/QKUSR5TcyHyfjoCd6">Google maps</a>
+
 <h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
-There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
+<em>Update: Fully booked.</em> There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
 <h3><a name="triangle-c-cabins" id="triangle-c-cabins"  href="https://triangleccabins.com/">Triangle C Cabins</a></h3>
 <em>Update: fully booked.</em> These standalone cabins are cozy, a little rustic and very popular. Enjoy the firepit in the evenings and volleyball, bocce and other games on-site. Expect this site to be packed with other wedding guests. As part of Redfish Resort, free shuttles to stunning Redfish Lake are a perk of staying here.
