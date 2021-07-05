@@ -56,7 +56,7 @@ Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit
 <a href="https://goo.gl/maps/pdJ3k6gyYd9kPmYS8">Google maps</a>
 
 <h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
-<em>Update: Two king rooms left. Call to book under our block.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
+<em>Update: One king room left. Call to book under our block.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
 
 <h3><a name="sawtooth-hotel" id="sawtooth-hotel"   href="https://sawtoothhotel.com/">Sawtooth Hotel</a></h3>
 <em>Update: one queen room left.</em> Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
