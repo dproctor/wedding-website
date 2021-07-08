@@ -51,9 +51,16 @@ Book early! Stanley is a very popular summer destination, and we expect that to 
 
 Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&usp=sharing">interactive map</a> to pick a spot.
 
+<h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
+<em>Update: A room just became available again!</em> Very cute and modern tiny homes. <a href="https://www.airbnb.com/rooms/32266785?check_in=2021-09-03&check_out=2021-09-06&guests=1&adults=1&s=67&unique_share_id=474be819-38a8-4a4c-bda9-74cd94f796eb">Book here!</a>
+<a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
+
 <h3><a name="stanley-town-square" id="stanley-town-square"   href="https://www.stanleytownsquare.com/">Stanley Town Square Condo Hotel</a></h3>
 <em>Update: One suite studio left. Call 208- 918-1578 to book.</em> These are probably the nicest accommodations in town. Most are suites with multiple rooms that have been updated with kitchens and upscale but homey decor. If you're a family or friends wanting to share and aren’t interested in roughing it, book here!
 <a href="https://goo.gl/maps/pdJ3k6gyYd9kPmYS8">Google maps</a>
+
+<h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
+<em>Update: One king room left.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
 
 <h3><a name="sawtooth-hotel" id="sawtooth-hotel"   href="https://sawtoothhotel.com/">Sawtooth Hotel</a></h3>
 <em>Update: Three rooms left.</em> Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
@@ -78,18 +85,11 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <a href="https://goo.gl/maps/QKUSR5TcyHyfjoCd6">Google maps</a>
 
 <h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
-<em>Update: Fully booked.</em> There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
-
-<h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
-<em>Update: Fully booked.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
+<em>Update: One 3-bedroom house <a href="https://www.airbnb.com/rooms/34226187?check_in=2021-09-03&check_out=2021-09-06&guests=1&adults=1&s=67&unique_share_id=0537a812-46a7-4724-8de2-257277c39e3a">available on Airbnb.</a></em> There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
 <h3><a name="triangle-c-cabins" id="triangle-c-cabins"  href="https://triangleccabins.com/">Triangle C Cabins</a></h3>
 <em>Update: Fully booked.</em> These standalone cabins are cozy, a little rustic and very popular. Enjoy the firepit in the evenings and volleyball, bocce and other games on-site. Expect this site to be packed with other wedding guests. As part of Redfish Resort, free shuttles to stunning Redfish Lake are a perk of staying here.
 <a href="https://goo.gl/maps/YVABhYiVvP3xZc6U8">Google maps</a>
-
-<h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
-<em>Update: Fully booked.</em> Very cute and modern tiny homes.
-<a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
 
 <h3><a name="redfish-riverside-inn" id="redfish-riverside-inn"   href="https://redfishriversideinn.com/">Redfish Riverside Inn</a></h3>
 <em>Update: Fully booked.</em> Comfortable rooms along the river with log cabin decor. Stay here if you want to wake up next to the river and be within sight of our wedding venue. As part of the Redfish Resort, free shuttles to the Redfish Lake are a perk of staying here.
