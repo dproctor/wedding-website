@@ -60,7 +60,7 @@ you on Friday and Monday if that fits into your travel plans.
 
   <p>6 - 9 PM</p>
   <p>Rehearsal Dinner and Party</p>
-  <p>The Stanley Outpost</p>
+  <p>Pioneer  Park</p>
   <p>Western Chic Attire</p>
 </td>
 </tr>

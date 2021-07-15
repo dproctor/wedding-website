@@ -51,10 +51,6 @@ Book early! Stanley is a very popular summer destination, and we expect that to 
 
 Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&usp=sharing">interactive map</a> to pick a spot.
 
-<h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
-<em>Update: A room just became available again!</em> Very cute and modern tiny homes. <a href="https://www.airbnb.com/rooms/32266785?check_in=2021-09-03&check_out=2021-09-06&guests=1&adults=1&s=67&unique_share_id=474be819-38a8-4a4c-bda9-74cd94f796eb">Book here!</a>
-<a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
-
 <h3><a name="stanley-town-square" id="stanley-town-square"   href="https://www.stanleytownsquare.com/">Stanley Town Square Condo Hotel</a></h3>
 <em>Update: One suite studio left. Call 208- 918-1578 to book.</em> These are probably the nicest accommodations in town. Most are suites with multiple rooms that have been updated with kitchens and upscale but homey decor. If you're a family or friends wanting to share and aren’t interested in roughing it, book here!
 <a href="https://goo.gl/maps/pdJ3k6gyYd9kPmYS8">Google maps</a>
@@ -79,6 +75,9 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <li> <a href="https://www.lowerstanley.com/">Lower Stanley Country Store and Motel</a>, <a href="https://goo.gl/maps/DMxDz9cfYKyqaKb27">Google maps</a> </li>
 <li><a href="https://www.redwood-stanley.com/">Redwood Cabins</a>, <a href="https://goo.gl/maps/PSPUuvNNGeWZo5pX9">Google maps</a></li>
 </ul>
+
+<h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
+<em>Update: Fully booked. Cute and modern tiny homes. <a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
 
 <h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
 <em>Update: Fully booked.</em> If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
