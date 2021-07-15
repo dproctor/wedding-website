@@ -77,7 +77,7 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 </ul>
 
 <h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
-<em>Update: Fully booked. Cute and modern tiny homes. <a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
+<em>Update: Fully booked.</em> Cute and modern tiny homes. <a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
 
 <h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
 <em>Update: Fully booked.</em> If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
