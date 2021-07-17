@@ -51,15 +51,11 @@ Book early! Stanley is a very popular summer destination, and we expect that to 
 
 Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&usp=sharing">interactive map</a> to pick a spot.
 
-<h3><a name="stanley-town-square" id="stanley-town-square"   href="https://www.stanleytownsquare.com/">Stanley Town Square Condo Hotel</a></h3>
-<em>Update: One suite studio left. Call 208- 918-1578 to book.</em> These are probably the nicest accommodations in town. Most are suites with multiple rooms that have been updated with kitchens and upscale but homey decor. If you're a family or friends wanting to share and aren’t interested in roughing it, book here!
-<a href="https://goo.gl/maps/pdJ3k6gyYd9kPmYS8">Google maps</a>
-
 <h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
-<em>Update: One king room left.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
+<em>Update: One king room left in our room block. Call 208-774-7000 to book.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
 
 <h3><a name="sawtooth-hotel" id="sawtooth-hotel"   href="https://sawtoothhotel.com/">Sawtooth Hotel</a></h3>
-<em>Update: Three rooms left.</em> Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
+<em>Update: One room left.</em> Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
 
 <h3><a name="danners-log-cabins" id="danners-log-cabins"   href="http://www.dannerslogcabins.com/">Danner’s Log Cabins</a></h3>
 These simple but cozy cabins began as one of Idaho's first Ranger Stations back in the late 1800's.
@@ -75,6 +71,10 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <li> <a href="https://www.lowerstanley.com/">Lower Stanley Country Store and Motel</a>, <a href="https://goo.gl/maps/DMxDz9cfYKyqaKb27">Google maps</a> </li>
 <li><a href="https://www.redwood-stanley.com/">Redwood Cabins</a>, <a href="https://goo.gl/maps/PSPUuvNNGeWZo5pX9">Google maps</a></li>
 </ul>
+
+<h3><a name="stanley-town-square" id="stanley-town-square"   href="https://www.stanleytownsquare.com/">Stanley Town Square Condo Hotel</a></h3>
+<em>Update: Fully booked.</em> These are probably the nicest accommodations in town. Most are suites with multiple rooms that have been updated with kitchens and upscale but homey decor. If you're a family or friends wanting to share and aren’t interested in roughing it, book here!
+<a href="https://goo.gl/maps/pdJ3k6gyYd9kPmYS8">Google maps</a>
 
 <h3><a name="meadow-creek-inn" id="meadow-creek-inn"   href="https://meadowcreekinn.com/">Meadow Creek Inn and Spa</a></h3>
 <em>Update: Fully booked.</em> Cute and modern tiny homes. <a href="https://www.google.com/maps?cid=4548671335968250056">Google maps</a>
