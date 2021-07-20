@@ -83,9 +83,6 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <h3><a name="sawtooth-hotel" id="sawtooth-hotel"   href="https://sawtoothhotel.com/">Sawtooth Hotel</a></h3>
 <em>Update: Fully booked.</em> Funky little hotel with old country decor right above the best restaurant in town. Note that some rooms have shared bathrooms. <a href="https://goo.gl/maps/cLRjQ67h5Ct7HS6ZA">Google maps</a>
 
-<h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
-<em>Update: One 3-bedroom house <a href="https://www.airbnb.com/rooms/34226187?check_in=2021-09-03&check_out=2021-09-06&guests=1&adults=1&s=67&unique_share_id=0537a812-46a7-4724-8de2-257277c39e3a">available on Airbnb.</a></em> There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
-
 <h3><a name="triangle-c-cabins" id="triangle-c-cabins"  href="https://triangleccabins.com/">Triangle C Cabins</a></h3>
 <em>Update: Fully booked.</em> These standalone cabins are cozy, a little rustic and very popular. Enjoy the firepit in the evenings and volleyball, bocce and other games on-site. Expect this site to be packed with other wedding guests. As part of Redfish Resort, free shuttles to stunning Redfish Lake are a perk of staying here.
 <a href="https://goo.gl/maps/YVABhYiVvP3xZc6U8">Google maps</a>
@@ -97,6 +94,9 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <h3><a name="redfish-lake-lodge" id="redfish-lake-lodge"   href="https://redfishlake.com/">Redfish Lake Lodge</a></h3>
 <em>Update: Fully booked.</em> Set next to crystal clear Redfish Lake and with stunning Sawtooth Mountain views, this resort is the most popular spot in the area. If you can find a room, snag it. It’s about a 10-minute drive from Stanley and the wedding venue. Whether or not you stay here, we recommend visiting Redfish Lake during your stay. If you stay at Triangle C Cabins or the Redfish Riverside Inn, there are free shuttles to the Lake.
 <a href="https://g.page/redfish-lake-lodge?share">Google maps</a>
+
+<h3><a name="rental-houses" id="rental-houses"> Rental houses</a></h3>
+<em>Update: One 3-bedroom house <a href="https://www.airbnb.com/rooms/34226187?check_in=2021-09-03&check_out=2021-09-06&guests=1&adults=1&s=67&unique_share_id=0537a812-46a7-4724-8de2-257277c39e3a">available on Airbnb.</a></em> There are a few nice larger homes for groups available through <a href="http://www.sawtoothvista.com/">Sawtooth Vista</a>. (Note that they don't allow booking less than 5 nights until after April 1). There are also a handful of good options on <a href="https://www.airbnb.com/">Airbnb</a> and <a href="https://www.vrbo.com/">VRBO</a> and comfortable suites with kitchens available through <a href="http://stanleyvacationrentals.com/">Stanley Vacation Rentals</a>.
 
 <h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
 <p>
