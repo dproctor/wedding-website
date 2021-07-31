@@ -45,7 +45,7 @@ are invited to all events.
 <td>
   <p>8 - 10 PM</p>
   <p>Welcome S'mores and Drinks</p>
-  <p>The Stanley Outpost</p>
+  <p><a href="#outpost">The Stanley Outpost</a></p>
   <p>Campfire Casual Attire</p>
 </td>
 </tr>
@@ -55,13 +55,12 @@ are invited to all events.
 <td>
   <p>10 AM - 2 PM</p>
   <p>Boating, Hiking, Biking and Picnic</p>
-  <p>Redfish Lake Picnic Area</p>
-
+  <p><a href="#redfish">Redfish Lake Picnic Area</a></p>
   <br>
 
   <p>6 - 9 PM</p>
   <p>Rehearsal Dinner and Party</p>
-  <p>Pioneer  Park</p>
+  <p><a href="#pioneerpark">Pioneer Park</a></p>
   <p>Western Chic Attire</p>
 </td>
 </tr>
@@ -71,7 +70,7 @@ are invited to all events.
 <td>
   <p>4 - 10 PM</p>
   <p>Wedding Ceremony and Reception</p>
-  <p>The Cassidys’ Home</p>
+  <p><a href="#cassidys">The Cassidys' Home</a></p>
   <p>Black-Tie Optional</p>  
 </td>
 </tr>
@@ -81,7 +80,7 @@ are invited to all events.
 <td>
   <p>10 AM - 12 PM</p>
   <p>Farewell Breakfast</p>
-  <p>The Stanley Outpost</p>
+  <p><a href="#outpost">The Stanley Outpost</a></p>
 </td>
 </tr>
 </table>
@@ -95,7 +94,7 @@ recommend in town. Click the wedding event pins to find info and directions to e
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&ll=44.21602395604157%2C-114.93824980208565&z=18">Interactive Map</a>
 
-<h3> The Stanley Outpost </h3>
+<h3><a class="anchor" name="outpost" id="outpost"></a>The Stanley Outpost </h3>
 The Friday Welcome event and Monday breakfast will both be here. This is also where Caitlin's family is staying, so consider this base camp!
 
 <b>Getting there:</b> Please walk if you're able. It should be just 5 or 10 minutes walking for anyone staying in Stanley. If you're staying outside Stanley, please park along Eva Falls Road.
@@ -106,7 +105,7 @@ The Outpost is along Eva Falls Ave (Highway 21) 800 feet west of the Stanley Cha
 
 <a href="https://goo.gl/maps/2SZQoGzjnC2e6fRT6">Google Maps location</a>
 
-<h3> Redfish Lake Picnic Area </h3>
+<h3><a class="anchor" name="redfish" id="redfish"></a>Redfish Lake Picnic Area </h3>
 We are hosting a picnic mid-day Saturday at Redfish Lake North Shore Picnic Area, which will serve as a home base for lake activities and hiking. It's right next to the lake and the Marina, and 1/3 mile from the Redfish Trailhead for hiking. We rented pontoon boats for guests to enjoy from 10 am to 2 pm, and there are SUPs, canoes, etc. available for rent at the Marina. Meet up promptly at 10 am at the Picnic Area if you are hoping to join a hiking group. Note that you can cut some mileage and get into the peaks faster by taking the boat shuttle from the Marina to land further up trail. We'll have drinks, snacks and lunch food.
 
 <b>Getting there:</b> If you are staying at Triangle C Cabins, Redfish Riverside Inn, or the Stanley High Country Inn, there are free shuttles to the Lake. When you check in, ask for details about timing.
@@ -119,7 +118,7 @@ Parking is limited. If there is no remaining parking for our area, additional pa
 
 <a href="https://goo.gl/maps/AecYRoYNpnTvUJUTA">Google Maps location</a>
 
-<h3> Pioneer Park </h3>
+<h3><a class="anchor" name="pioneerpark" id="pioneerpark"></a>Pioneer Park </h3>
 We are hosting our Rehearsal Dinner and Party at Pioneer Park facing stunning mountain views. Please note that your invitation listed a different location for this event. The website is your source of truth!
 
 <b>Getting there:</b> Please walk if you're in town and able, or carpool. We'll also be shuttling people up and down the very mild hill between the Stanley Baking Company and the party to make it a very short walk. Hang out just past the bakery where we'll see you if you want a ride.
@@ -132,7 +131,7 @@ For parking, follow School Road another 250 feet to a parking lot on your left. 
 
 <a href="https://goo.gl/maps/t9TQAeB4bcXJpRgn8">Google Maps location</a>
 
-<h3> The Cassidys' Home </h3>
+<h3><a class="anchor" name="cassidys" id="cassidys"></a>The Cassidys' Home </h3>
 
 Our wedding ceremony, dinner reception and dancing will be at the Cassidys' beautiful property along the
 Salmon River at the site of the historic Salmon River Lodge. (Look out for the Motel sign on the barn across the river from Highway 75!) The ceremony and cocktail hour will be outside. Dinner will be in heated tent, and we'll dance in the barn!
