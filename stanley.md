@@ -30,9 +30,7 @@ trek to join us!
 <h3>Boise Airport</h3>
 There will likely be more flight options into Boise than Sun Valley, but the
 drive is longer. Budget three hours for this beautiful drive along the
-Ponderosa Pine Scenic Byway. The roads are well-maintained but winding. Stop in
-at Kirkham Hot Springs just off the road when you’re two hours into the drive
-and ready to officially enter vacation mode. <a href="https://goo.gl/maps/NbSeASAKaRNdaCmc8">Directions (includes the Hot Springs)</a>.
+Ponderosa Pine Scenic Byway. The roads are well-maintained but winding, and you will lose cell service shortly after leaving Boise. Stop in at Kirkham Hot Springs just off the road when you’re two hours into the drive and ready to officially enter vacation mode. <a href="https://goo.gl/maps/NbSeASAKaRNdaCmc8">Directions (includes the Hot Springs)</a>.
 
 Alternatively, you can <a href="https://gemairflights.com/middle-fork-round-trip/">take Gem Air for a scenic prop plane flight</a>, which will drop you right in Stanley, just a few minutes walk from our rehearsal party site at Pioneer Park. It's usually $190 per person each way, but you'll need to reach out to confirm availability.
 
