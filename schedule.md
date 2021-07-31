@@ -88,6 +88,8 @@ are invited to all events.
 Important notes on attire: All events will be outdoors on grass, so we recommend flats,
 block heels or wedges. Temperatures drop rapidly as the sun sets, so please bring a coat.
 <br>
+<br>
+<br>
 
 <img src="/assets/img/map.png">
 
