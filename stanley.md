@@ -34,6 +34,8 @@ Ponderosa Pine Scenic Byway. The roads are well-maintained but winding. Stop in
 at Kirkham Hot Springs just off the road when you’re two hours into the drive
 and ready to officially enter vacation mode. <a href="https://goo.gl/maps/NbSeASAKaRNdaCmc8">Directions (includes the Hot Springs)</a>.
 
+Alternatively, you can <a href="https://gemairflights.com/middle-fork-round-trip/">take Gem Air for a scenic prop plane flight</a>, which will drop you right in Stanley, just a few minutes walk from our rehearsal party site at Pioneer Park. It's usually $190 per person each way, but you'll need to reach out to confirm availability.
+
 <h3>Sun Valley (Friedman Memorial Airport)</h3>
 
 Plan for the drive to take a little over an hour. You’ll take Highway 75
@@ -46,17 +48,15 @@ beautiful scenery you won’t want to miss, and the combination of windy dark
 roads and wildlife can be dangerous. If you land in Sun Valley or Boise Friday
 evening, you might want to spend the night there and drive in the morning.
 
+<h3>Carpooling</h3>
+Once you're in Stanley, all events except the Saturday daytime activities at Redfish Lake
+will be walkable from downtown Stanley, or we'll provide a shuttle. If you want to carpool
+from either airport to and from Stanley, <a href="https://docs.google.com/spreadsheets/d/1hy1C855XqIJmze7v1AY5gXepYEa5bNNv6iTHWWC0ah4/edit?usp=sharing">you can use this spreadsheet to coordinate rides with other guests</a>.
+
 <h2> <a class="anchor" name="where-to-stay" id="where-to-stay"></a>Where to stay </h2>
 Book early! Stanley is a very popular summer destination, and we expect that to be especially the case for Labor Day Weekend in 2021. Several places are already full, so book fast if you don’t want to wind up in a tent!
 
 Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&usp=sharing">interactive map</a> to pick a spot.
-
-<h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
-<em>Update: One king room left in our room block. Call 208-774-7000 to book.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
-
-<h3><a name="danners-log-cabins" id="danners-log-cabins"   href="http://www.dannerslogcabins.com/">Danner’s Log Cabins</a></h3>
-These simple but cozy cabins began as one of Idaho's first Ranger Stations back in the late 1800's.
-<a href="https://goo.gl/maps/8UMjmGxC9DDrEv5F7">Google maps</a>
 
 <h3><a name="mountain-village" id="mountain village"   href="https://www.mountainvillage.com/">Mountain Village Resort</a></h3>
 <em>Update: Several rooms left.</em> Basic, affordable hotel in town that comes with one major perk: access to amazing natural hot springs! This resort also offers a full refund for cancellations with at least 7 days notice. <a href="https://goo.gl/maps/fLcVFE9DBhbirCDm9">Google maps</a>
@@ -68,6 +68,13 @@ These simple but cozy cabins began as one of Idaho's first Ranger Stations back 
 <li> <a href="https://www.lowerstanley.com/">Lower Stanley Country Store and Motel</a>, <a href="https://goo.gl/maps/DMxDz9cfYKyqaKb27">Google maps</a> </li>
 <li><a href="https://www.redwood-stanley.com/">Redwood Cabins</a>, <a href="https://goo.gl/maps/PSPUuvNNGeWZo5pX9">Google maps</a></li>
 </ul>
+
+<h3><a name="stanley-high-country-inn" id="stanley-high-country-inn"   href="https://stanleyinn.com/">Stanley High Country Inn</a></h3>
+<em>Update: Fully booked.</em> A popular hotel in town with basic but comfortable rooms and log cabin decor. This hotel is part of the Redfish Resort and includes a complimentary shuttle to Redfish Lake. <a href="https://goo.gl/maps/79nR3iK61rJreeH37">Google maps</a>
+
+<h3><a name="danners-log-cabins" id="danners-log-cabins"   href="http://www.dannerslogcabins.com/">Danner’s Log Cabins</a></h3>
+<em>Update: Fully booked.</em>  These simple but cozy cabins began as one of Idaho's first Ranger Stations back in the late 1800's.
+<a href="https://goo.gl/maps/8UMjmGxC9DDrEv5F7">Google maps</a>
 
 <h3><a name="idaho-rocky-mountain-ranch" id="idaho-rocky-mountain-ranch"   href="https://idahorocky.com/">Idaho Rocky Mountain Ranch</a></h3>
 <em>Update: Fully booked.</em> If you're looking for a really special experience, look no further. This is a luxury guest ranch with great food on site (it's all inclusive). This is the furthest away of the options we recommend, but still only a 15-minute drive from Stanley and the wedding venue.
