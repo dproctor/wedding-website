@@ -6,7 +6,9 @@ permalink: /rsvp/
 <h1> rsvp </h1>
 
 <p>
-Please RSVP by July 15, 2021. Your presence at our wedding is the only gift we request!
+Thank you for your RSVP! You can submit again here if you want to make any changes to your accommodations, meal selection and dietary restrictions, or individual event RSVPs.
+
+If you're looking for our registry, we don't have one. Your presence at our wedding is the only gift we request!
 </p>
 
 <iframe name="redirect" style="display:none;"></iframe>
