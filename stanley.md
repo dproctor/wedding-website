@@ -9,6 +9,7 @@ permalink: /stanley/
  <li> <a href="#where-to-stay"> Where to stay</a> </li>
  <li> <a href="#weather"> Weather</a> </li>
  <li> <a href="#things-to-do"> Things to do</a> </li>
+ <li> <a href="#packing-tips"> Packing tips</a> </li>
 </ul>
 <img src="/assets/img/view_from_lower_stanley.jpg">
 
@@ -215,3 +216,19 @@ If you’ve never been, consider spending a few days in Ketchum
 on either end of the wedding. It’s a classy Western resort
 town with plenty of vacation-worthy lodges, hotels and
 restaurants.
+
+<h2> <a class="anchor" name="packing-tips" id="packing-tips"></a>Packing tips </h2>
+<p>
+Here are a few things you'll want to have for your visit.
+<ul>
+ <li> Party clothes! See the <a href="/schedule/">schedule</a> for dress codes for the events. All events will be outdoors on grass, so pack sensible shoes. (Even the bride is wearing block heels!)</li>
+ <li> A swimsuit and towel. Bring something you don't mind wearing in natural hot springs, rivers and lakes. </li>
+  <li> Chacos, Tevas or any sandles or shoes you can wear in rivers. </li>
+ <li> Hiking clothes and shoes. </li>
+ <li> A warm coat. Even on hot days, when the sun drops, you will want to grab your puffer. You'll also want it for the chilly mornings. Take another  look at the <a href="#weather"> weather</a>. </li>
+ <li> A water bottle. Stanley is at 6,200 feet elevation, so it's important to stay hydrated. </li>
+ <li> Sun protection. This will be a weekend of the outdoors, so sun protection is always a good idea. We'll provide sunscreen, but pack your hats, sunglasses, sleeves.</li>
+ <li> A headlight is a good idea if you want to take post-sunset hot springs soaks. </li>
+ <li> If you need any specific groceries for your visit, you'll want to pack them in your suitcase or pick up in Boise or Ketchum (Sun Valley). Stanley is a small mountain town, and the grocery stores are a bit lacking. You'll find the basics, and not a lot more. (You'll find more than enough delicious food to eat at the restaurants though, so don't worry!)</li>
+</ul>
+</p>
