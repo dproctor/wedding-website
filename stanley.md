@@ -219,7 +219,7 @@ restaurants.
 
 <h2> <a class="anchor" name="packing-tips" id="packing-tips"></a>Packing tips </h2>
 <p>
-Here are a few things you'll want to have for your visit.
+Here are a few things you may want to pack for your visit.
 <ul>
  <li> Party clothes! See the <a href="/schedule/">schedule</a> for dress codes for the events. All events will be outdoors on grass, so pack sensible shoes. (Even the bride is wearing block heels!)</li>
  <li> A swimsuit and towel. Bring something you don't mind wearing in natural hot springs, rivers and lakes. </li>
