@@ -109,7 +109,7 @@ The Friday Welcome event and Monday breakfast will both be at the Stanley Outpos
 
 <b>Address:</b> 720 Eva Falls Road, Stanley
 
-<a href="https://goo.gl/maps/2SZQoGzjnC2e6fRT6">Google Maps location</a>
+<a href="https://goo.gl/maps/DZweSrrcGV1PgUGZA">Google Maps location</a>
 
 <h3><a class="anchor" name="redfish" id="redfish"></a>Redfish Lake Picnic Area </h3>
 There will be a picnic mid-day Saturday at Redfish Lake North Shore Picnic Area, which will serve as a base for lake activities and hiking. It's right along the lake shore and next to the Marina, and it's 1/3 mile from the Redfish Trailhead. We rented pontoon boats for guests to enjoy from 10 am to 2 pm, and there are SUPs, canoes, and other boats available for rent at the Marina. Meet up promptly at 10 am at the Picnic Area if you are hoping to join a hiking group. Note that you can cut some mileage and get into the peaks faster by taking the boat shuttle from the Marina to land further up trail. We'll have drinks, snacks and lunch food.
