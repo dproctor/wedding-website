@@ -42,7 +42,10 @@ through the Sawtooth National Forest and along stunning views of the Sawtooth
 Mountains. Look out for pronghorn antelope, mountain goats and sandhill cranes.
 <a href="https://goo.gl/maps/r7sHLQZAxTxUJtHA8">Directions</a>.
 
-From either airport, we recommend that you avoid driving at night. There is
+<h3>Salt Lake City</h3>
+If you are having trouble finding direct flights to Boise or Sun Valley, Salt Lake City is a third option with a longer drive (~5.5 hours).
+
+From any airport, we recommend that you avoid driving at night. There is
 beautiful scenery you won’t want to miss, and the combination of windy dark
 roads and wildlife can be dangerous. If you land in Sun Valley or Boise Friday
 evening, you might want to spend the night there and drive in the morning.
