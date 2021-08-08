@@ -106,7 +106,7 @@ Read our guide below or use this <a href="https://www.google.com/maps/d/u/0/edit
 
 <h2> <a class="anchor" name="weather" id="weather"></a>Weather </h2>
 <p>
-Fun fact: Stanley is the coldest place in the continental United States, as measured by low temperature at night. You’re probably thinking that’s not so fun since you’ve been invited to an outdoor wedding. Don’t worry! The weather will be gorgeous during the day, cool in the evening, and only cold around 9PM and on. For the wedding reception, we’ll be in an indoor heated tent and barn when it’s cold. On the Friday and Saturday events, we’ll gather around cozy fires and patio heaters with blankets, but definitely wear a coat!
+Fun fact: Stanley is the coldest place in the continental United States, as measured by low temperature at night. You’re probably thinking that’s not so fun since you’ve been invited to an outdoor wedding. Don’t worry! The weather will be gorgeous during the day, cool in the evening, and only cold around 9PM and on. For the wedding reception, we’ll be in the barn by the time it gets cold. On the Friday and Saturday events, we’ll gather around cozy fires and patio heaters with blankets, but definitely wear a coat!
 </p>
 
 <p>
