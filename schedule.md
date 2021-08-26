@@ -141,8 +141,18 @@ Our Rehearsal Dinner and Party will be outdoors at Pioneer Park, which is just 1
 
 Our wedding ceremony, dinner reception and dancing will be at the Cassidys' beautiful property along the Salmon River at the site of the historic Salmon River Lodge. (Look out for the Motel sign on the barn across the river from Highway 75.) The ceremony and cocktail hour will be outside. Dinner will be in an open-air tent, and we'll dance in the barn! For warmth, there will be blankets, patio heaters and fires. It should stay warm enough through dinner in the tent, and we'll be in the barn by the time it's dark and cold.
 
-<b>Getting there:</b> There will be a shuttle from downtown Stanley and nearby areas. Stop times and locations will be posted on this page. There are about 10 parking spaces right at the shuttle drop-off. Please only use those if we aren't able to pick you up with the shuttle or for any special needs.
+<b>Getting there:</b> There will be a shuttle from downtown Stanley. Check out the map and schedule below. There are about 10 parking spaces right at the shuttle drop-off. Please only use those if we aren't able to pick you up with the shuttle or for any special needs.
 
 <b>Address:</b> 101 Salmon River Lodge Lane, Stanley
 
 <a href="https://goo.gl/maps/Mzwvq4WqnPwgf8kF7">Google Maps location for shuttle drop-off</a>
+
+<h4><a class="anchor" name="shuttle" id="shuttle"></a>Wedding Shuttle Map and Schedule </h4>
+<br>
+<br>
+
+<img src="/assets/img/shuttle_map.png">
+
+<br>
+<img src="/assets/img/shuttle_schedule.jpg">
+<br>
