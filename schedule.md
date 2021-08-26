@@ -149,5 +149,6 @@ Our wedding ceremony, dinner reception and dancing will be at the Cassidys' beau
 
 <h4><a class="anchor" name="shuttle" id="shuttle"></a>Wedding Shuttle Map and Schedule </h4>
 <img src="/assets/img/shuttle_map.png">
+<br>
 <img src="/assets/img/shuttle_schedule.jpg">
 <br>
