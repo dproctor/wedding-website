@@ -80,13 +80,13 @@ are invited to all events.
 <td>
   <p>10 AM - 12 PM</p>
   <p>Farewell Breakfast</p>
-  <p><a href="#outpost">The Stanley Outpost</a></p>
+  <p><a href="#cassidys">The Cassidys' Home</a></p>
 </td>
 </tr>
 </table>
 
 Important notes on attire: All events will be outdoors on grass, so we recommend flats,
-block heels or wedges. Temperatures drop rapidly as the sun sets, so please bring a coat.
+block heels or wedges. Temperatures drop rapidly as the sun sets, so please bring a warm coat.
 <br>
 <br>
 <br>
@@ -95,17 +95,16 @@ block heels or wedges. Temperatures drop rapidly as the sun sets, so please brin
 
 <h2> Directions to events </h2>
 
-The interactive map shows the location of all events as well as hotels and places we
-recommend in town. Click the wedding event pins to find info and directions to each event.
+The interactive map shows the location of all events as well as hotels and places we recommend in town. Click the wedding event pins to find info and directions to each event.
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1_B3vhMWHFdH3K45NLqSttNAF5bBIlxmC&ll=44.21602395604157%2C-114.93824980208565&z=18">Interactive Map</a>
 
 <h3><a class="anchor" name="outpost" id="outpost"></a>The Stanley Outpost </h3>
-The Friday Welcome event and Monday breakfast will both be at the Stanley Outpost. This is also where Caitlin's family is staying, so consider this base camp!
+The Friday Welcome event will be at the Stanley Outpost. This is also where Caitlin's family is staying, so consider this base camp!
 
 <b>Getting there:</b> Please walk if you're able. It should be just 5 or 10 minutes walking for anyone staying in Stanley. If you're staying outside Stanley, please park along Eva Falls Road.
 
-<b>Directions:</b> The Outpost is along Eva Falls Road (Highway 21) 800 feet west of the Stanley Chamber of Commerce. Look for a driveway and our welcome signs on the north side of the road (creek side, less developed).
+<b>Directions:</b> The Outpost is along Eva Falls Road (Highway 21) 800 feet west of the Stanley Chamber of Commerce. Look for a driveway and our welcome sign on the north side of the road (creek side, less developed).
 
 <b>Address:</b> 720 Eva Falls Road, Stanley
 
@@ -127,7 +126,7 @@ There will be a picnic mid-day Saturday at Redfish Lake North Shore Picnic Area,
 <h3><a class="anchor" name="pioneerpark" id="pioneerpark"></a>Pioneer Park </h3>
 Our Rehearsal Dinner and Party will be outdoors at Pioneer Park, which is just 1/4 mile up the road from the Stanley Baking Company and feels like it's right up in the Sawtooth peaks. Please note that your invitation listed a different location for this event. The website is your source of truth!
 
-<b>Getting there:</b> Please walk if you're in town and able, or carpool. We will shuttle people up and down the very mild hill between the Stanley Baking Company and the party, though it's an easy walk either way. If you want a ride, hang out just past the bakery where we'll find you.
+<b>Getting there:</b> It is just up the hill from the Stanley Baking Company, so we will shuttle walkers up and down the hill. If you want a ride, hang out just past the bakery where we'll find you. There is parking available if you prefer to drive.
 
 <b>Directions:</b> Follow Wall Street past the Stanley Baking Company until it turns into Airport Road. Follow Airport Road to a fork. Bear right onto School Road, and you’ll immediately see a small parking pad on your left with a Welcome sign (less than 50 feet from the fork). Follow the path from that pad to the party.
 
@@ -139,9 +138,9 @@ Our Rehearsal Dinner and Party will be outdoors at Pioneer Park, which is just 1
 
 <h3><a class="anchor" name="cassidys" id="cassidys"></a>The Cassidys' Home </h3>
 
-Our wedding ceremony, dinner reception and dancing will be at the Cassidys' beautiful property along the Salmon River at the site of the historic Salmon River Lodge. (Look out for the Motel sign on the barn across the river from Highway 75.) The ceremony and cocktail hour will be outside. Dinner will be in an open-air tent, and we'll dance in the barn! For warmth, there will be blankets, patio heaters and fires. It should stay warm enough through dinner in the tent, and we'll be in the barn by the time it's dark and cold.
+Our wedding ceremony, dinner reception and dancing as well as the Farewell Breakfast will be at the Cassidys' beautiful property along the Salmon River at the site of the historic Salmon River Lodge. (Look out for the Motel sign on the barn across the river from Highway 75.) The ceremony and cocktail hour will be outside. Dinner will be in an open-air tent, and we'll dance in the barn! For warmth, there will be blankets, patio heaters and fires. It should stay warm enough through dinner in the tent, and we'll be in the barn by the time it's dark and cold. (We will be leaving the large barn doors open on both sides to keep air flow. This will be colder but more COVID-safe.)
 
-<b>Getting there:</b> There will be a shuttle from downtown Stanley. Check out the map and schedule below. There are about 10 parking spaces right at the shuttle drop-off. Please only use those if we aren't able to pick you up with the shuttle or for any special needs.
+<b>Getting there:</b> For the wedding, there will be a shuttle from downtown Stanley. Check out the map and schedule below. There are about a dozen parking spaces right at the shuttle drop-off. Please only use those if we aren't able to pick you up with the shuttle or for any special needs. For the Farewell Breakfast, it's about a 15-minute walk from town. If you drive, park before the bridge or at the turnout just past the turn for the Cassidys.
 
 <b>Address:</b> 101 Salmon River Lodge Lane, Stanley
 
