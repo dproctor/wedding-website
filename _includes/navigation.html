@@ -7,7 +7,7 @@
   <a class="home-page-link" href="/"> c&d </a>
   <span id="nav-links">
   {% for item in site.data.navigation %}
-    <a href="{{ item.url }}" {% if page.title == item.title %}class="current"{% endif %}>{{ item.title }}</a>
+    <a href="{{ site.baseurl }}{{ item.url }}" {% if page.title == item.title %}class="current"{% endif %}>{{ item.title }}</a>
 {% endfor %}
   </span>
 </div>

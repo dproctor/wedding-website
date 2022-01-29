@@ -3,14 +3,14 @@ layout: null
 ---
 <head>
 
-<link rel="stylesheet" href="/assets/css/styles.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&display=swap" rel="stylesheet">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
-<link rel="manifest" href="/assets/img/site.webmanifest">
-<link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/img/favicon-16x16.png">
+<link rel="manifest" href="{{ site.baseurl }}/assets/img/site.webmanifest">
+<link rel="mask-icon" href="{{ site.baseurl }}/assets/img/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 
@@ -21,12 +21,14 @@ html,body {
 }
 
 #landing-page-wrapper {
+
   max-width: 600px;
   margin: auto;
-	margin-top: 60px;
+ margin-top: 60px;
 }
 
 #title h1 {
+
   margin: 10px 0 10px 0;
   color: #FAECEA;
   font-weight: 900;
@@ -34,63 +36,77 @@ html,body {
 }
 
 #title h2 {
+
   margin: 0 0 0 0;
   color: #150605;
   font-weight: 400;
-	font-size: 1.5vh;
+ font-size: 1.5vh;
 }
+
 #title {
+
   margin: 0 auto;
 }
+
 #landing-page-nav {
+
   margin-top: 40vh;
 }
+
 #landing-page-nav div {
-	margin-top: 10px;
+
+ margin-top: 10px;
 }
+
 #landing-page-nav a {
-	text-decoration: none;
-	font-weight: 300;
-	font-size: 22px;
-	color: #150605;
+
+ text-decoration: none;
+ font-weight: 300;
+ font-size: 22px;
+ color: #150605;
 }
+
 #landing-page-nav a:hover {
+
   font-weight: 400;
 }
 
 #landscape {
+
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 
 #landscape svg {
+
   height: 10vh;
   width: 100%
 }
 
 #lower-landscape {
+
   background-color: #4F1712;
   height: 12vh;
   margin: 0.5vh 0 0 0;
 }
 
 @media screen and (max-width: 680px) {
-	#landing-page-wrapper {
-		margin-left: 40px;
-	}
+ #landing-page-wrapper {
+  margin-left: 40px;
+ }
 }
 @media screen and (max-height: 1024px) {
   #landing-page-nav {
     margin-top: 320px;
   }
-	#title h1 {
-		font-size: 48px;
-	}
+ #title h1 {
+  font-size: 48px;
+ }
 
-	#title h2 {
-		font-size: 18px;
-	}
+ #title h2 {
+  font-size: 18px;
+ }
 }
 @media screen and (max-height: 900px) {
   #landing-page-nav {
@@ -117,33 +133,33 @@ html,body {
 }
 
 @media screen and (max-height: 560px) {
-	#landing-page-wrapper {
-		margin-top: 20px;
-	}
+ #landing-page-wrapper {
+  margin-top: 20px;
+ }
   #landing-page-nav {
     margin-top: 20px;
   }
-	#title h1 {
-		font-size: 36px;
-	}
+ #title h1 {
+  font-size: 36px;
+ }
 
-	#title h2 {
-		font-size: 14px;
-	}
-	#landing-page-nav a {
-		font-size: 14px;
-	}
-	#landscape svg {
-		height: 50px;
-	}
+ #title h2 {
+  font-size: 14px;
+ }
+ #landing-page-nav a {
+  font-size: 14px;
+ }
+ #landscape svg {
+  height: 50px;
+ }
   #landing-page-nav div {
     margin-top: 1px;
   }
 
-	#lower-landscape {
-		height: 60px;
-		margin: 4px 0 0 0;
-	}
+ #lower-landscape {
+  height: 60px;
+  margin: 4px 0 0 0;
+ }
 }
 @media screen and (max-height: 400px) {
   #landing-page-nav {
@@ -170,7 +186,7 @@ html,body {
         </div>
         <div id="landing-page-nav">
         {% for item in site.data.navigation %}
-          <div><a href="{{ item.url }}">{{ item.title }}</a></div>
+          <div><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></div>
         {% endfor %}
         </div>
       </div>
@@ -186,3 +202,4 @@ html,body {
         </div>
     </body>
 </html>
+

@@ -11,7 +11,7 @@ permalink: /stanley/
  <li> <a href="#things-to-do"> Things to do</a> </li>
  <li> <a href="#packing-tips"> Packing tips</a> </li>
 </ul>
-<img src="/assets/img/view_from_lower_stanley.jpg">
+<img src="{{ site.baseurl }}/assets/img/view_from_lower_stanley.jpg">
 
 <p>
 Stanley is a tiny town (pop. 63) nestled at the foot of
@@ -123,7 +123,7 @@ There is so much to do in the Sawtooth Mountains, we highly recommend that you c
 </p>
 
 <h3>Hiking</h3>
-<img src="/assets/img/creek.png">
+<img src="{{ site.baseurl }}/assets/img/creek.png">
 <ul>
   <li>
   <a href="https://www.theoutbound.com/idaho/backpacking/backpack-to-sawtooth-lake">Sawtooth Lakes</a> (10 miles, 1873 ft elevation gain) can also be done as an overnight if you want to camp. <a href="https://www.alltrails.com/trail/us/idaho/sawtooth-lake--2">AllTrails guide </a>
@@ -155,7 +155,7 @@ Some <a href="https://www.alltrails.com/parks/us/idaho/sawtooth-national-forest?
 
 <h3>Biking</h3>
 
-<img src="/assets/img/mtb.jpg">
+<img src="{{ site.baseurl }}/assets/img/mtb.jpg">
 
 <p>
 There are awesome mountain biking trails near Stanley. <a
@@ -189,7 +189,7 @@ the way up to six day trips with Class IV rapids through
 stunning backcountry. Find river guides <a href="https://stanleycc.org/Do/River-Rafting">here</a>.
 
 <h3>Redfish lake</h3>
-<img src="/assets/img/redfish.png">
+<img src="{{ site.baseurl }}/assets/img/redfish.png">
 If whitewater sounds a little too adventurous, there are
 plenty of other water activities available at <a
 href="https://redfishlake.com/marina/">Redfish Marina</a>:
@@ -200,18 +200,18 @@ pontoon boats, and boat tours.
 <ul>
 <li>
 <a href="https://www.mountainvillage.com/hot-springs/">Mountain Village Hot Springs</a> is right in Stanley, and requires reservations.
-<img src="/assets/img/hot_tub.png">
+<img src="{{ site.baseurl }}/assets/img/hot_tub.png">
 </li>
 <li>
 <a href="https://www.outdoorproject.com/united-states/idaho/boat-box-hot-spring">Boat Box aka the Cauldron</a> is just down the road along the Salmon River.
 </li>
 <li>
 <a href="https://www.outdoorproject.com/united-states/idaho/sunbeam-hot-springs">Sunbeam Hot Springs</a> is also just down the road and has lots of space for lots of people.
-<img src="/assets/img/salmon_hot_springs.png">
+<img src="{{ site.baseurl }}/assets/img/salmon_hot_springs.png">
 </li>
 <li>
 <a href="https://www.theoutbound.com/idaho/chillin/soak-in-kirkham-hot-springs">Kirkham Hot Springs</a> and <a href="https://www.theoutbound.com/idaho/chillin/soak-in-pine-flats-hot-springs">Pine Flats Hot Springs</a> are both relaxing stops along the drive from Boise to Stanley.
-<img src="/assets/img/hot_springs.png">
+<img src="{{ site.baseurl }}/assets/img/hot_springs.png">
 </li>
 </ul>
 

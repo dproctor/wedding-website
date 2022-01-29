@@ -91,7 +91,7 @@ block heels or wedges. Temperatures drop rapidly as the sun sets, so please brin
 <br>
 <br>
 
-<img src="/assets/img/map.png">
+<img src="{{ site.baseurl }}/assets/img/map.png">
 
 <h2> Directions to events </h2>
 
@@ -147,7 +147,7 @@ Our wedding ceremony, dinner reception and dancing as well as the Farewell Break
 <a href="https://goo.gl/maps/Mzwvq4WqnPwgf8kF7">Google Maps location for shuttle drop-off</a>
 
 <h4><a class="anchor" name="shuttle" id="shuttle"></a>Wedding Shuttle Map and Schedule </h4>
-<img src="/assets/img/shuttle_map.png">
+<img src="{{ site.baseurl }}/assets/img/shuttle_map.png">
 <br>
-<img src="/assets/img/shuttle_schedule.jpg">
+<img src="{{ site.baseurl }}/assets/img/shuttle_schedule.jpg">
 <br>
